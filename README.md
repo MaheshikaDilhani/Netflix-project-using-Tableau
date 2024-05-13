@@ -78,7 +78,7 @@ The dashboard shows:
 
 ## DASHBOARD:
 
-![Netflix](https://user-images.githubusercontent.com/124501309/218270123-35907b8d-1ca2-4a7a-8087-5999b55c31f1.png)
+![Netflix](https://github.com/MaheshikaDilhani/Netflix-project-using-Tableau/blob/main/NetFlix.png)
 
 ## NOTE:
 
