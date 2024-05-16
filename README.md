@@ -57,13 +57,16 @@ The goal of this project is to practice creating and interpreting different type
 
 ### Vertical Bar Graph of Rating & Horizontal Bar Graph of Top 10 Gerne.
 
-![Netflix1](https://user-images.githubusercontent.com/124501309/218270328-913ef05d-c6dc-478c-93ef-cc1dacdc1751.jpg)
+![Netflix1](https://github.com/MaheshikaDilhani/Netflix-project-using-Tableau/blob/main/top10%20genre.jpg)
+![Netflix1](https://github.com/MaheshikaDilhani/Netflix-project-using-Tableau/blob/main/Rating.jpg)
 
 
 
 ### Country wise Map of Total Movies and TV shows by Country & line Area Graph of Total Movies and TV shows by Year.
 
-![Netflix2](https://user-images.githubusercontent.com/124501309/218270348-03ad03b0-c9aa-4b19-a3fe-afe13298e67a.jpg)
+![Netflix2](https://github.com/MaheshikaDilhani/Netflix-project-using-Tableau/blob/main/map.jpg)
+![Netflix2](https://github.com/MaheshikaDilhani/Netflix-project-using-Tableau/blob/main/Total%20Movies%20by%20year.jpg)
+
 
 
 
