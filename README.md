@@ -4,11 +4,8 @@
 
 ## LINKS: 
 
-Lets Connect
 
-[Go to my LinkedIn](https://www.linkedin.com/in/maheshika-weerawardhanage/) 🌐
-
-[Go to my Dashboard](https://public.tableau.com/app/profile/maheshika.harischandra/viz/NetflixD_17149054868220/NetFlix)
+[TABLEAU Dashboard Link](https://public.tableau.com/app/profile/maheshika.harischandra/viz/NetflixD_17149054868220/NetFlix)
 
 ## PROJECT NAME: 
 
