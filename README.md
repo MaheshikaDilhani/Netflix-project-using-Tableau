@@ -1,6 +1,6 @@
 # Netflix Data Analysis using Tableau
 
-![NETFLIX](https://user-images.githubusercontent.com/124501309/224610912-3728b852-8844-419c-b668-82c6d4ceec23.png)
+![NETFLIX](https://github.com/MaheshikaDilhani/Netflix-project-using-Tableau/blob/main/netflix%20heading.png)
 
 ## LINKS: 
 
